@@ -1,0 +1,10 @@
+{
+  "name": "cho",
+  "version": "0.1.0",
+  "description": "Чо? Ленивый объяснятор простым русским языком: код, ошибки и термины. Простота 1–5, мат off/low/high.",
+  "author": { "name": "golyshevskii" },
+  "homepage": "https://github.com/golyshevskii/cho",
+  "repository": "https://github.com/golyshevskii/cho",
+  "license": "MIT",
+  "keywords": ["explain", "russian", "mat", "lazy"]
+}

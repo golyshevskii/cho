@@ -1,0 +1,12 @@
+{
+  "name": "cho",
+  "description": "Чо? Объясняет сложное простым русским языком.",
+  "owner": { "name": "golyshevskii" },
+  "plugins": [
+    {
+      "name": "cho",
+      "source": "./",
+      "description": "Чо? Объясняет сложное простым русским языком. Простота 1–5, мат off/low/high."
+    }
+  ]
+}

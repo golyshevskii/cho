@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "cho",
+  "version": "0.1.0",
+  "description": "Чо? Объясняет сложное простым русским языком. Простота 1–5, мат off/low/high.",
+  "author": {
+    "name": "golyshevskii"
+  },
+  "homepage": "https://github.com/golyshevskii/cho",
+  "repository": "https://github.com/golyshevskii/cho",
+  "license": "MIT",
+  "keywords": [
+    "explain",
+    "russian",
+    "mat",
+    "lazy"
+  ]
+}
