@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "cho",
-  "version": "0.2.0",
-  "description": "Чо? Ленивый объяснятор простым русским языком. Простота 1–3, мат off/low/high.",
+  "version": "0.3.0",
+  "description": "Чо? Ленивый объяснятор на простом разговорном русском с жаргоном. Простота 1–3, мат off/low/high.",
   "author": {
     "name": "golyshevskii"
   },
